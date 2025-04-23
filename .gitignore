@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.env
+
+# venv
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+.env
+.env.local
+*.key
+api
+auth
